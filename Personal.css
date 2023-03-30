@@ -1,0 +1,20 @@
+body {
+    background-color: rgb(0, 0, 0);
+}
+
+.H1{ 
+
+    color: rgb(224, 27, 1);
+    font-style: italic;
+    font-size: large;
+}
+
+.para{
+    color: crimson;
+    font-family: 'Tillana', cursive;
+}
+
+.insta{
+    color: #dc143c;
+    
+}
